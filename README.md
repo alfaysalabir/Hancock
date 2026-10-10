@@ -116,6 +116,7 @@ Because this is a static site, you can host it for free:
 
 - **GitHub Pages** – push the repo, then go to *Settings → Pages* and choose the `main` branch. Rename `Hancock.html` to `index.html` so it opens at the root URL.
 - **Netlify / Vercel** – drag the project folder in or import the GitHub repo. No build command and no environment variables are needed.
+  https://hancock-delta.vercel.app/
 
 > ⚠️ Image paths are **case-sensitive** on most hosts. Make sure file names in `Images/Hancock/` match the names used in `Hancock.html` exactly (for example `Hancock_Logo.png`).
 
